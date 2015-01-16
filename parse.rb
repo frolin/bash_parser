@@ -26,6 +26,6 @@ def parsing(page)
 
   # posts.each { |post| puts post.to_json }
   puts posts.to_json
-  puts "All: #{posts.count}"
+  puts "All: #{posts.count} post."
 end
 
